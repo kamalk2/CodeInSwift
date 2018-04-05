@@ -16,4 +16,4 @@ Solutions for some common problems statements in Swift.
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Apr 05 | Given a binary array, find the maximum number of consecutive 1s in this array. | [Max Consecutive Ones](Numbers/1_MaxConsecutiveOnes.playground|
+|Apr 05 | Given a binary array, find the maximum number of consecutive 1s in this array. | [Max Consecutive Ones](Numbers/1_MaxConsecutiveOnes.swift)|
