@@ -9,11 +9,12 @@ Solutions for some common problems statements in Swift.
 
 | Day    | Total Problems  |
 | :----: | :-------------: |
-|  1     |      1          |
+|  1     |      2          |
 
 
-## Numbers
+## Numbers & Array
 
 | Date | Problems |     Solutions     |
 | :------------: | :------------: | :----------: |
-|Apr 05 | Given a binary array, find the maximum number of consecutive 1s in this array. | [Max Consecutive Ones](Numbers/1_MaxConsecutiveOnes.swift)|
+|Apr 05 | Given a binary array, find the maximum number of consecutive 1s in this array. | [Max Consecutive Ones](Arrays_Numbers/1_Max_Consecutive_Ones.swift)|
+|Apr 05 | Given an array of integers, return indices of the two numbers such that they add up to a specific target. | [Two Sum](Arrays_Numbers/2_Two_Sum.swift)|
